@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "rust_len_blink"
+        },
+        {
+            "path": "rust_len_uart"
+        }
+    ],
+    "settings": {
+        "rust-analyzer.linkedProjects": [
+            "rust_len_blink/Cargo.toml",
+            "rust_len_uart/Cargo.toml"
+        ]
+    }
+}
