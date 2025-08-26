@@ -1,0 +1,8 @@
+cargo:rustc-check-cfg=cfg(armv6m)
+cargo:rustc-check-cfg=cfg(armv7m)
+cargo:rustc-check-cfg=cfg(armv8m)
+cargo:rustc-check-cfg=cfg(cortex_m)
+cargo:rustc-check-cfg=cfg(has_fpu)
+cargo:rustc-link-search=D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\debug\build\cortex-m-rt-85a005cfdcfed331\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

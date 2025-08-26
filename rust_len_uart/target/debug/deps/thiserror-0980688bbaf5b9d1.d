@@ -1,0 +1,11 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\debug\deps\thiserror-0980688bbaf5b9d1.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\aserror.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\display.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\provide.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\var.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\debug\deps\libthiserror-0980688bbaf5b9d1.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\aserror.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\display.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\provide.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\var.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\debug\deps\libthiserror-0980688bbaf5b9d1.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\aserror.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\display.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\provide.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\var.rs
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\aserror.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\display.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\provide.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.16\src\var.rs:
