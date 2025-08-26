@@ -1,0 +1,9 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\embassy_time_queue_utils-ce17a57ff59bb77f.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\queue_integrated.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\../README.md
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libembassy_time_queue_utils-ce17a57ff59bb77f.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\queue_integrated.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\../README.md
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libembassy_time_queue_utils-ce17a57ff59bb77f.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\queue_integrated.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\../README.md
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\queue_integrated.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-time-queue-utils-0.2.0\src\../README.md:

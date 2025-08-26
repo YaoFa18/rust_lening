@@ -1,0 +1,9 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\embassy_net_driver_channel-e5901028b4f5e2ee.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\fmt.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\../README.md
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libembassy_net_driver_channel-e5901028b4f5e2ee.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\fmt.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\../README.md
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libembassy_net_driver_channel-e5901028b4f5e2ee.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\fmt.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\../README.md
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\fmt.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\embassy-net-driver-channel-0.3.1\src\../README.md:

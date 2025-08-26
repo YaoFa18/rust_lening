@@ -1,0 +1,12 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\defmt_rtt-9e8b2dc7dbb83057.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\channel.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\consts.rs D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\defmt-rtt-c2e68badb6a4a612\out/consts.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libdefmt_rtt-9e8b2dc7dbb83057.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\channel.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\consts.rs D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\defmt-rtt-c2e68badb6a4a612\out/consts.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libdefmt_rtt-9e8b2dc7dbb83057.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\channel.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\consts.rs D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\defmt-rtt-c2e68badb6a4a612\out/consts.rs
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\channel.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\defmt-rtt-1.0.0\src\consts.rs:
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\defmt-rtt-c2e68badb6a4a612\out/consts.rs:
+
+# env-dep:OUT_DIR=D:\\ruanjian\\STM32ProgramFile\\STM32CubeMx\\LestFolder\\Useing\\len\\rust_lening\\rust_len_uart\\target\\thumbv7em-none-eabi\\debug\\build\\defmt-rtt-c2e68badb6a4a612\\out

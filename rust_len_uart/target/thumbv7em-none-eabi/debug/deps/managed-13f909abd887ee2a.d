@@ -1,0 +1,11 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\managed-13f909abd887ee2a.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\object.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slice.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slotmap.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\map.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libmanaged-13f909abd887ee2a.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\object.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slice.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slotmap.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\map.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libmanaged-13f909abd887ee2a.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\object.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slice.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slotmap.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\map.rs
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\object.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slice.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\slotmap.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\managed-0.8.0\src\map.rs:

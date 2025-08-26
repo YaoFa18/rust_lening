@@ -1,0 +1,5 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\cortex-m-134baf9b82ee7d1a\out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
+cargo:rustc-cfg=armv7em

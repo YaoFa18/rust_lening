@@ -1,0 +1,10 @@
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\futures_task-c6879bf2cd6c152e.d: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\spawn.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\future_obj.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\noop_waker.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libfutures_task-c6879bf2cd6c152e.rlib: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\spawn.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\future_obj.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\noop_waker.rs
+
+D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\deps\libfutures_task-c6879bf2cd6c152e.rmeta: C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\lib.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\spawn.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\future_obj.rs C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\noop_waker.rs
+
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\lib.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\spawn.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\future_obj.rs:
+C:\Users\29693\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\futures-task-0.3.31\src\noop_waker.rs:

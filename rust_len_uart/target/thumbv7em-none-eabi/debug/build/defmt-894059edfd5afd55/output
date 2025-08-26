@@ -1,0 +1,3 @@
+cargo:rustc-link-search=D:\ruanjian\STM32ProgramFile\STM32CubeMx\LestFolder\Useing\len\rust_lening\rust_len_uart\target\thumbv7em-none-eabi\debug\build\defmt-894059edfd5afd55\out
+cargo:rustc-check-cfg=cfg(c_variadic)
+cargo:rustc-check-cfg=cfg(no_cas)
